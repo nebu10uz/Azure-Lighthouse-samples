@@ -7,14 +7,14 @@
    "metadata": {
     "description": "Specify a unique name for your offer"
    },
-   "defaultValue": "<Replace with Name>-Sentinel-Delegation"
+   "defaultValue": "Customer-Sentinel-Delegation"
   },
   "mspOfferDescription": {
    "type": "string",
    "metadata": {
     "description": "Name of the Managed Service Provider offering"
    },
-   "defaultValue": "Access for <Replace with Name> Sentinel workspace"
+   "defaultValue": "Access for Customer Sentinel workspace"
   },
   "rgName": {
    "type": "string",
