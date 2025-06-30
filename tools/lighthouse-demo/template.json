@@ -17,7 +17,7 @@
    "defaultValue": "Access for Customer Sentinel workspace"
   },
   "rgName": {
-   "type": "string",
+   "type": "string"
   }
  },
  "variables": {
